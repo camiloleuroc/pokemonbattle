@@ -1,0 +1,9 @@
+version: '1.0'
+services:
+  app:
+    build:
+      context: .
+    container_name: pruebaEnerBitDjango
+    image: prueba-enerbit-django:latest
+    ports:
+      - "80:8000"

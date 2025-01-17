@@ -1,0 +1,10 @@
+fastapi==0.59.0
+uvicorn==0.11.5
+pandas
+numpy
+requests
+requests-oauthlib
+setuptools
+sqlalchemy
+psycopg2
+psycopg2-binary
