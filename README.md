@@ -23,8 +23,8 @@ Simulador de batallas pokemon desarrollado con FastAPI, se adiciona un directori
 
 En el link se puede ver la documentación y realizar peticiones para sus pruebas.
 
-## SQL Tabla 
-# En dado caso de requerirse el siguiente es el SQL a ejecutar para la creación de la tabla, pero como se menciona al pricipio, el script se encarga de crearla despues de la primera interacción exitosa.
+# SQL Tabla 
+## En dado caso de requerirse el siguiente es el SQL a ejecutar para la creación de la tabla, pero como se menciona al pricipio, el script se encarga de crearla despues de la primera interacción exitosa.
     ```
     -- Table: public.resultado_batallas
 
